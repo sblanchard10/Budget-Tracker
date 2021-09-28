@@ -22,7 +22,7 @@ The user should clone the repository from GitHub and install dependencies. To ru
 ## Usage
 
 This application will allow users to create new transactions whether it's a deposit or withdraw, with or without internet connection.<br>
-Please view deployed application on [Heroku](https://nw-budget-app.herokuapp.com/)<br>
+Please view deployed application on [Heroku](https://budget-tracker2432.herokuapp.com/)<br>
 <img src='public/screen.png'>
 
 ## License
